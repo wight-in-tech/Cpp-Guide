@@ -1,3 +1,15 @@
+
+//link: https://leetcode.com/problems/max-consecutive-ones/description/
+
+//description: 485. Max Consecutive Ones
+
+
+
+//Given a binary array nums, return the maximum number of consecutive 1's in the array.
+
+
+
+
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
